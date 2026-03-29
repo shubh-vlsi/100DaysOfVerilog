@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+                   0 | 0 0 |  0   0   1    1    1   0    1
+               10000 | 0 1 |  0   1   1    1    0   1    0
+               20000 | 1 0 |  0   1   0    1    0   1    0
+               30000 | 1 1 |  1   1   0    0    0   0    1
+$finish called at time : 50 ns : File "D:/task/Day1/code/logic_gate/logic_gate.srcs/sim_1/new/tb_all_gates_bh.v" Line 26

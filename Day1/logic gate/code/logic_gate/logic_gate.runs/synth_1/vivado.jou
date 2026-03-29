@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Sun Mar 29 11:01:51 2026
+# Process ID         : 27756
+# Current directory  : D:/task/Day1/code/logic_gate/logic_gate.runs/synth_1
+# Command line       : vivado.exe -log all_gates_bh.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source all_gates_bh.tcl
+# Log file           : D:/task/Day1/code/logic_gate/logic_gate.runs/synth_1/all_gates_bh.vds
+# Journal file       : D:/task/Day1/code/logic_gate/logic_gate.runs/synth_1\vivado.jou
+# Running On         : LAPTOP-G8VL8P84
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i5-1340P
+# CPU Frequency      : 2189 MHz
+# CPU Physical cores : 12
+# CPU Logical cores  : 16
+# Host memory        : 16803 MB
+# Swap memory        : 6994 MB
+# Total Virtual      : 23798 MB
+# Available Virtual  : 1278 MB
+#-----------------------------------------------------------
+source all_gates_bh.tcl -notrace
