@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+0 0  0  |  0    0
+0 0  1  |  1    1
+0 1  0  |  1    1
+0 1  1  |  0    1
+1 0  0  |  1    0
+1 0  1  |  0    0
+1 1  0  |  0    0
+1 1  1  |  1    1
+$finish called at time : 80 ns : File "D:/placment/task/Day2/Sum_Sub of Two No/Sum_Sub of Two No.srcs/sim_1/new/full_sub_tb.v" Line 44

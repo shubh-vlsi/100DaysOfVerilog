@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/AMDDesignTools/2025.2/Vivado/data/rsb/busdef" \
+"../../../../../Sum_Sub of Two No.srcs/sim_1/new/full_adder_tb.v" \
+
+# Do not sort compile order
+nosort

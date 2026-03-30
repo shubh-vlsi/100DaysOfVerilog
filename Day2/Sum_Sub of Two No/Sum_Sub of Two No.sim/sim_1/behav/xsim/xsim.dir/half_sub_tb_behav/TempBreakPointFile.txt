@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+35,true,"D:/placment/task/Day2/Sum_Sub of Two No/Sum_Sub of Two No.srcs/sim_1/new/half_sub_tb.v"
