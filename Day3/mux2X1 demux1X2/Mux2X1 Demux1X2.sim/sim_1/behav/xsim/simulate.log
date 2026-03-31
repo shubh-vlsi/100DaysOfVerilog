@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+0 1 | 1  0
+1 1 | 0  1
+0 0 | 0  0
+1 0 | 0  0
+$finish called at time : 40 ns : File "D:/placment/task/Day3/mux2X1 demux1X2/Mux2X1 Demux1X2.srcs/sim_1/new/demux_tb.v" Line 42

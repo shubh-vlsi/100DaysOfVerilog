@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/placment/task/Day3/mux2X1 demux1X2/Mux2X1 Demux1X2.srcs/sources_1/new/demux1X2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux1x2_df
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/placment/task/Day3/mux2X1 demux1X2/Mux2X1 Demux1X2.srcs/sim_1/new/demux_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module demux_tb
